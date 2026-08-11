@@ -6,7 +6,7 @@ The course covers an intensive 8-week curriculum focused on building and deployi
 
 ---
 
-##  Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 * **Languages:** Python, C++
 * **AI & LLMs:** Frontier Models (OpenAI, Anthropic), Fine-Tuned Open-Source Models
@@ -14,48 +14,46 @@ The course covers an intensive 8-week curriculum focused on building and deployi
 
 ---
 
-##  Projects Overview
+## 📅 Weekly Curriculum & Projects
 
-Here are the 8 hands-on applications built throughout the course:
+Here is the breakdown of projects aligned with each week of the program:
 
-* **Project 1: Intelligent Brochure Generator**  
-  An AI-powered generator that scrapes and navigates company websites to assemble custom marketing assets.
+* **Week 1: Intelligent Brochure Generator**  
+  Build an AI-powered brochure generator that scrapes and navigates company websites intelligently.
 
-* **Project 2: Multi-Modal Airline Support Agent**  
-  A full customer support system with UI integration and custom function-calling features.
+* **Week 2: Multi-Modal Airline Customer Support Agent**  
+  Build a multi-modal customer support agent for an airline with UI and function-calling capabilities.
 
-* **Project 3: Audio Meeting Minutes & Action Item Extractor**  
-  A transcript processing tool using both open-source and closed-source models to generate meeting insights from audio.
+* **Week 3: Audio Meeting Minutes & Action Item Extractor**  
+  Develop a tool that creates meeting minutes and action items from audio using both open- and closed-source models.
 
-* **Project 4: Python-to-C++ Code Optimizer**  
-  An AI system that converts standard Python code into ultra-optimized C++, achieving up to 60,000x performance boosts.
+* **Week 4: Python to C++ Code Optimizer**  
+  Make an AI that converts Python code to optimized C++, boosting performance by up to 60,000x!
 
-* **Project 5: AI Knowledge-Worker (RAG System)**  
-  An enterprise-level Retrieval-Augmented Generation system designed to query and synthesize internal company documentation.
+* **Week 5: Enterprise AI Knowledge Worker (RAG)**  
+  Build an AI knowledge-worker using RAG to become an expert on all company-related matters.
 
-* **Project 6: Capstone Part A – Product Price Prediction**  
-  A price prediction model leveraging frontier LLMs to evaluate short product descriptions.
+* **Week 6: Capstone Part A – Product Price Prediction**  
+  Predict product prices from short descriptions using Frontier models.
 
-* **Project 7: Capstone Part B – Fine-Tuned Price Predictor**  
-  Fine-tuning and deploying an open-source model using QLoRA to directly compete with frontier models in accuracy and cost-efficiency.
+* **Week 7: Capstone Part B – Fine-Tuned Open-Source Model**  
+  Execute a fine-tuned open-source model (QLoRA) to compete with Frontier models in price prediction.
 
-* **Project 8: Capstone Part C – Autonomous Multi-Agent Bargain Hunter**  
-  A multi-agent system where specialized models collaborate to discover deal opportunities and trigger real-time notifications.
+* **Week 8: Capstone Part C – Autonomous Multi-Agent System**  
+  Build an autonomous multi-agent system collaborating with models to spot deals and notify you of special bargains.
 
 ---
 
-##  Repository Structure
+## 📋 Repository Structure
 
 ```text
 .
-├── 01-brochure-generator/      # Project 1: Web scraping & brochure generation
-├── 02-airline-agent/           # Project 2: Multi-modal agent & UI
-├── 03-audio-minutes/           # Project 3: Audio transcription & action items
-├── 04-python-to-cpp/           # Project 4: Python to optimized C++ converter
-├── 05-company-rag/             # Project 5: Enterprise RAG knowledge worker
-├── 06-capstone-price-pred/     # Project 6: Frontier model price prediction
-├── 07-capstone-qlora/          # Project 7: Fine-tuned open-source model
-├── 08-capstone-multi-agent/    # Project 8: Autonomous multi-agent deal spotter
+├── Week1/          # Intelligent Brochure Generator
+├── Week2/          # Multi-Modal Airline Support Agent
+├── Week3/          # Audio Meeting Minutes Extractor
+├── Week4/          # Python to C++ Code Optimizer
+├── Week5/          # Enterprise RAG Knowledge Worker
+├── Week6/          # Capstone Part A: Product Price Prediction
+├── Week7/          # Capstone Part B: QLoRA Fine-Tuned Model
+├── Week8/          # Capstone Part C: Autonomous Multi-Agent Bargain Hunter
 └── README.md
-
-
