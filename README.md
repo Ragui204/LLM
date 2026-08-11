@@ -6,7 +6,7 @@ The course covers an intensive 8-week curriculum focused on building and deployi
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 * **Languages:** Python, C++
 * **AI & LLMs:** Frontier Models (OpenAI, Anthropic), Fine-Tuned Open-Source Models
@@ -14,7 +14,7 @@ The course covers an intensive 8-week curriculum focused on building and deployi
 
 ---
 
-## 🚀 Projects Overview
+##  Projects Overview
 
 Here are the 8 hands-on applications built throughout the course:
 
@@ -44,7 +44,7 @@ Here are the 8 hands-on applications built throughout the course:
 
 ---
 
-## 📋 Repository Structure
+##  Repository Structure
 
 ```text
 .
